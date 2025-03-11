@@ -1,3 +1,12 @@
 body {
-    background-color: white;
+    background-color: #1D001F
+    ;
+    
+    HummingBird.png {
+        outline-style: solid;
+        outline-width: 0300px;
+        outline-color: aliceblue;
+    }
+    
 }
+
